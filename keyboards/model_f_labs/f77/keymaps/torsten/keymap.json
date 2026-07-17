@@ -1,0 +1,20 @@
+{
+    "config": {
+        "features": {
+            "via": true,
+            "haptic": false,
+            "mousekey": false,
+            "repeat_key": false,
+            "combo": false,
+            "key_override": true
+        },
+        "extended_attributes": {
+            "form_factor": "compact",
+            "key_travel": "full",
+            "layout": {
+                "standard": "ANSI"
+            },
+            "locale": "en-150-Latn"
+        }
+    }
+}
