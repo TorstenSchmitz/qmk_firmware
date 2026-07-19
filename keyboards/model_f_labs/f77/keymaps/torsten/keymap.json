@@ -9,6 +9,7 @@
             "key_override": true
         },
         "extended_attributes": {
+            "enabled": true,
             "form_factor": "compact",
             "key_travel": "full",
             "layout": {
