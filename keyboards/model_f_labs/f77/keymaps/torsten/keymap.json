@@ -1,12 +1,20 @@
 {
     "config": {
+        "usb": {
+            "shared_endpoint": {
+                "keyboard": true,
+                "mouse": true
+            }
+        },
         "features": {
             "via": true,
+            "nkro": true,
+            "key_override": true,
+            "console": false,
             "haptic": false,
             "mousekey": false,
             "repeat_key": false,
-            "combo": false,
-            "key_override": true
+            "combo": false
         },
         "extended_attributes": {
             "enabled": true,
